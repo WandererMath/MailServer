@@ -9,7 +9,7 @@
 #include<thread>
 
 #define PORT 2334
-#define IP "157.119.101.36"
+#define IP "127.0.0.1"//Here change to the IP of your server as proxy.
 
 using namespace std;
 using asio::ip::tcp;
